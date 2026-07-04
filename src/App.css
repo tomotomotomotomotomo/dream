@@ -1,0 +1,14 @@
+/* src/App.css */
+.App {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+textarea {
+  width: 90%;
+  height: 150px;
+  margin: 20px 0;
+  padding: 10px;
+}
